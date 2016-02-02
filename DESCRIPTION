@@ -15,3 +15,5 @@ LazyData: TRUE
 Suggests: knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL:https://github.com/hlebaksm/samir
+BugReports:https://github.com/hlebaksm/samir/issues
