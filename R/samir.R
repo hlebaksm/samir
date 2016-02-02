@@ -4,5 +4,5 @@
 #' @name samir-package
 #' @title Functions for shuffle and dice rolling
 #' @section My Custom Section: Add additional information here.
-#' @keywords roll, dice
+#' @keywords package
 NULL

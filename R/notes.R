@@ -1,3 +1,3 @@
-devtools::use_vignette("template")
+#devtools::use_vignette("template")
 #gives you a vignette folder
 #
